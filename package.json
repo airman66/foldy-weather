@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "foldy-weather",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npm start --prefix=client",
+    "client:build": "npm run build --prefix=client",
+    "client:install": "npm install --prefix=client",
+    "start": "node app"
+  },
+  "keywords": [
+    "weather",
+    "foldy-weather"
+  ],
+  "author": "Luckichev Artyom <n89027538933@gmail.com>",
+  "license": "ISC",
+  "description": "Weather App"
+}

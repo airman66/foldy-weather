@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[4],{31:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c),i=function(){return a.a.createElement("h1",null,"Foldy-weather")};t.default=i}}]);
+//# sourceMappingURL=4.bac87143.chunk.js.map
